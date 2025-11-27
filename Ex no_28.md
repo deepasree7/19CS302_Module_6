@@ -4,7 +4,7 @@
 To write a C program that demonstrates the use of enum (enumeration) type to define and use named integer constants.
 
 ## Algorithm
-1. Start. 2.
+1. Start.
 2. Declare enum
 3. type Declare all days in a week Print result End
 
